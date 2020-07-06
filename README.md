@@ -4,7 +4,7 @@
 
 <h4>Cronograma</h4>
 
-![](Cronograma.png)
+![](Cronograma.jpg)
 
 <h4>Jornada Bootcamp</h4>
 
