@@ -1,0 +1,3 @@
+http://dados.gov.br/dataset/ocorrencias-aeronauticas-da-aviacao-civil-brasileira
+
+https://www.kaggle.com/jonavery/incomes-by-career-and-gender/data#

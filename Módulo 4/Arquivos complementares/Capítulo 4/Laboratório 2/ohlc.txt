@@ -1,0 +1,6 @@
+
+;1;2;3
+abertura;33;36;40
+alta;40;48;49
+baixa;23;21;34
+fechamento;33;45;55
