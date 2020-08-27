@@ -1,0 +1,6 @@
+idestado;sigla
+2;Goias               
+4;Maranhão            
+6;Santa Catarina      
+8;Goias               
+10;Ceará               

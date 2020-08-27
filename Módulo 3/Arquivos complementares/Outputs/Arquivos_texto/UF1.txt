@@ -1,0 +1,2 @@
+idestado;sigla
+7;Minas Gerais             

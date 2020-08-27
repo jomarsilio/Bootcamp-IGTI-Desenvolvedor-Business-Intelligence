@@ -1,0 +1,4 @@
+id_regiao;cidade;estado;país
+ 000000653;Casper                        ;Wyoming                                           ;United States                                     
+ 000000654;Cheyenne                      ;Wyoming                                           ;United States                                     
+ 000000655;Rock Springs                  ;Wyoming                                           ;United States                                     
